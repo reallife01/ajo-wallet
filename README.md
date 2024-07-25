@@ -2,6 +2,16 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+uses: 
+solidity 
+smart contract 
+tcore testnet
+nextjs
+tailwind 
+remix
+ethers
+web3
+
 First, run the development server:
 
 ```bash
