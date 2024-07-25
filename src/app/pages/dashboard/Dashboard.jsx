@@ -116,7 +116,7 @@ export default function Home() {
                                 type="number"
                                 min="0.01"
                                 step="0.01"
-                                placeholder='Amount Of LSK'
+                                placeholder='Amount Of AJO'
                                 class="px-2 py-1 border border-gray-300 rounded mr-2 my-3"
                                 ref={depositAmountRef}
 
