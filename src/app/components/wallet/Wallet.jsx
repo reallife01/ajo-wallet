@@ -1,7 +1,3 @@
-
-
-
-
 import React, { useState, useEffect } from "react";
 import { connectWallet } from "../../utils/ConnectWallet";
 import Web3Context from '../../context/Web3Context';
